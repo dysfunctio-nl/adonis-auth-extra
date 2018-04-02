@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Dysfunctio.nl"
+  },
+  "bugs": {
+    "url": "https://github.com/dysfunctio-nl/adonis-auth-extra/issues"
+  },
+  "description": "Extra middleware and view tags for Adonis Auth",
+  "devDependencies": {
+    "@adonisjs/fold": "^4.0.7",
+    "@adonisjs/sink": "^1.0.13"
+  },
+  "homepage": "https://github.com/dysfunctio-nl/adonis-auth-extra#readme",
+  "keywords": [
+    "adonisjs",
+    "adonis-framework",
+    "permissions",
+    "roles",
+    "auth",
+    "extra",
+    "guest",
+    "middleware"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@dysfunctionl/adonis-auth-extra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dysfunctio-nl/adonis-auth-extra"
+  },
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "version": "0.0.1"
+}
